@@ -1,0 +1,41 @@
+2^5
+3/10
+(3+5)^2
+sqrt(4)
+x <- 3
+y <- 6
+x+y
+library(tidyverse)
+find("filter")
+sqrt(4)
+%>%
+4 %>%
+sqrt
+library(here)
+fev_data <- read_csv(here("fev.csv"))
+install.packages(here)
+install.packages("here")
+install.packages("here")
+library(here)
+fev_data <- read_csv(here("fev.csv"))
+fev_data <- read_csv(here("fev.csv"))
+fev_data <- read.csv(here("fev.csv"))
+fev_data <- read_csv (here("fev.csv"))
+library(here)
+fev_data <- read_csv(here("fev.csv"))
+fev_data <- read.csv(here("fev.csv"))
+fev_data <- read_csv(here("fev.csv"))
+library(tidyverse)
+fev_data <- read_csv(here("fev.csv"))
+head(fev_data)
+spec(age)
+spec(fev_data)
+show_col_types
+show_col_types=FALSE
+bleh=FALSE
+spec(fev_data)
+knitr::opts_chunk$set(echo = TRUE)
+spec(fev_data)
+head(fev_data)
+library(readxl)
+install.packages("readxl")
